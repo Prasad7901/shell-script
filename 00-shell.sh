@@ -9,3 +9,10 @@
 *push the changes to github/central repo
 
 &naming convention:use small cases with hyphens
+
+
+*git add .
+*git commit -m ""
+*git push -u origin master
+
+git pull
